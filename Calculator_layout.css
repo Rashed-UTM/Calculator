@@ -1,0 +1,23 @@
+body{display: flex; justify-content: center;margin-top: 200px ;background-color: rgb(130, 129, 129);}
+.button{margin-top: 16px;}
+.calculator{background-color: rgb(12, 12, 12);width: 350px;height: 500px;border-radius: 2dvb;}
+
+.display{height:105px;width: 94%;background-color: gray;margin-top:3%;margin-left: 3%;border-radius: 10px;color: antiquewhite;font-size: 50px;text-align: end;position: relative;}
+.display span{position: absolute;bottom: 10px;right: 10px;}
+.button1 button{width: 20%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;}
+.button1 button:hover{width: 20%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;box-shadow: 5px 5px 10px green ; transform: translateY(-1.5px);}
+
+.button2 button{width: 20%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;}
+.button2 button:hover{width: 20%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;box-shadow: 5px 5px 10px green ; transform: translateY(-1.5px);}
+
+.button3 button{width: 20%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;}
+.button3 button:hover{width: 20%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;box-shadow: 5px 5px 10px green ; transform: translateY(-1.5px);}
+
+.button4 button{width: 20%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;}
+.button4 button:hover{width: 20%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;box-shadow: 5px 5px 10px green ; transform: translateY(-1.5px);}
+
+.button5 button{width: 45%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;float: left;}
+.button5 button:hover{width: 45%;height: 60px; margin-left:3%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;box-shadow: 5px 5px 10px green ; transform: translateY(-1.5px);}
+
+.button6 button{width: 20%;height: 60px; margin-left:4%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;float: left;}
+.button6 button:hover{width: 20%;height: 60px; margin-left:4%;margin-top:3%;border-radius: 25px;font-size: 30px;color: green;background-color:#333;border: 1px solid black;box-shadow: 5px 5px 10px green ; transform: translateY(-1.5px);}
